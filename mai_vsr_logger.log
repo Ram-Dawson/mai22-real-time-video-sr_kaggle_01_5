@@ -1,0 +1,37 @@
+2024-09-23 18:57:12,895 [MAI VSR:INFO] learner.py:201: Train from scratch
+2024-09-23 18:59:38,490 [MAI VSR:INFO] learner.py:222: Step 100 train loss: 128.8126220703125
+2024-09-23 19:01:27,482 [MAI VSR:INFO] learner.py:222: Step 200 train loss: 96.44261932373047
+2024-09-23 19:01:49,108 [MAI VSR:INFO] learner.py:125: Step: 200, Val_Metric: {'psnr': 24.204048, 'ssim': 0.5753975}
+2024-09-23 19:03:43,549 [MAI VSR:INFO] learner.py:222: Step 300 train loss: 100.99861145019531
+2024-09-23 19:05:29,588 [MAI VSR:INFO] learner.py:222: Step 400 train loss: 101.81710815429688
+2024-09-23 19:05:48,874 [MAI VSR:INFO] learner.py:125: Step: 400, Val_Metric: {'psnr': 24.695976, 'ssim': 0.63101476}
+2024-09-23 19:07:40,097 [MAI VSR:INFO] learner.py:222: Step 500 train loss: 77.88836669921875
+2024-09-23 19:09:29,524 [MAI VSR:INFO] learner.py:222: Step 600 train loss: 65.46780395507812
+2024-09-23 19:09:57,379 [MAI VSR:INFO] learner.py:125: Step: 600, Val_Metric: {'psnr': 24.855507, 'ssim': 0.6476456}
+2024-09-23 19:11:36,321 [MAI VSR:INFO] learner.py:222: Step 700 train loss: 120.90257263183594
+2024-09-23 19:13:24,302 [MAI VSR:INFO] learner.py:222: Step 800 train loss: 75.67349243164062
+2024-09-23 19:14:10,250 [MAI VSR:INFO] learner.py:125: Step: 800, Val_Metric: {'psnr': 24.935148, 'ssim': 0.6563788}
+2024-09-23 19:20:29,377 [MAI VSR:INFO] learner.py:222: Step 900 train loss: 130.0931396484375
+2024-09-23 19:22:19,897 [MAI VSR:INFO] learner.py:222: Step 1000 train loss: 110.88365173339844
+2024-09-23 19:23:08,633 [MAI VSR:INFO] learner.py:125: Step: 1000, Val_Metric: {'psnr': 24.981653, 'ssim': 0.6606067}
+2024-09-23 19:29:07,793 [MAI VSR:INFO] learner.py:222: Step 1100 train loss: 142.22744750976562
+2024-09-23 19:31:02,060 [MAI VSR:INFO] learner.py:222: Step 1200 train loss: 109.52147674560547
+2024-09-23 19:31:50,884 [MAI VSR:INFO] learner.py:125: Step: 1200, Val_Metric: {'psnr': 25.034222, 'ssim': 0.66495794}
+2024-09-23 19:34:23,681 [MAI VSR:INFO] learner.py:222: Step 1300 train loss: 145.48223876953125
+2024-09-23 19:36:37,529 [MAI VSR:INFO] learner.py:222: Step 1400 train loss: 116.95269012451172
+2024-09-23 19:37:27,494 [MAI VSR:INFO] learner.py:125: Step: 1400, Val_Metric: {'psnr': 25.093054, 'ssim': 0.66838175}
+2024-09-23 19:45:04,467 [MAI VSR:INFO] learner.py:222: Step 1500 train loss: 66.20421600341797
+2024-09-23 19:47:17,759 [MAI VSR:INFO] learner.py:222: Step 1600 train loss: 111.26566314697266
+2024-09-23 19:48:06,383 [MAI VSR:INFO] learner.py:125: Step: 1600, Val_Metric: {'psnr': 25.135399, 'ssim': 0.67091745}
+2024-09-23 19:53:58,488 [MAI VSR:INFO] learner.py:222: Step 1700 train loss: 117.1331787109375
+2024-09-23 19:55:48,226 [MAI VSR:INFO] learner.py:222: Step 1800 train loss: 58.552818298339844
+2024-09-23 19:56:38,226 [MAI VSR:INFO] learner.py:125: Step: 1800, Val_Metric: {'psnr': 25.170889, 'ssim': 0.6731499}
+2024-09-23 20:00:40,957 [MAI VSR:INFO] learner.py:222: Step 1900 train loss: 62.18610382080078
+2024-09-23 20:02:31,016 [MAI VSR:INFO] learner.py:222: Step 2000 train loss: 53.258880615234375
+2024-09-23 20:03:30,149 [MAI VSR:INFO] learner.py:125: Step: 2000, Val_Metric: {'psnr': 25.218512, 'ssim': 0.67542595}
+2024-09-23 20:05:46,257 [MAI VSR:INFO] learner.py:222: Step 2100 train loss: 67.43990325927734
+2024-09-23 20:07:39,758 [MAI VSR:INFO] learner.py:222: Step 2200 train loss: 69.38076782226562
+2024-09-23 20:08:35,715 [MAI VSR:INFO] learner.py:125: Step: 2200, Val_Metric: {'psnr': 25.26218, 'ssim': 0.67772424}
+2024-09-23 20:14:11,991 [MAI VSR:INFO] learner.py:222: Step 2300 train loss: 89.58604431152344
+2024-09-23 20:16:06,288 [MAI VSR:INFO] learner.py:222: Step 2400 train loss: 77.82450866699219
+2024-09-23 20:16:58,336 [MAI VSR:INFO] learner.py:125: Step: 2400, Val_Metric: {'psnr': 25.358171, 'ssim': 0.6813703}
